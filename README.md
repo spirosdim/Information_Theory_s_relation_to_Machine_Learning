@@ -1,1 +1,4 @@
-# Information-Theory-s-relation-to-Machine-Learning
+# Information Theory's relation to Machine Learning
+During the framework of the course Theory of Information and Chaos, I collaborated with Maria Kofterou (a fellow student) for a semester, to report on a project on the relation of Information Theory with Machine Learning; on a theoretical approach. Which taught me how to work as a team, search and extract information from scientific articles and academic papers.
+
+The main purpose of this essay is to examine and introduce the use of Information Theory in Machine Learning. In the beginning of this essay the reader shall be introduced to the basic concepts of Machine Learning and Information Theory. Once the main definitions are established, the relation between Machine Learning and Information Theory is discussed and further explored. Proceeding to a deeper analysis, the main application and mathematical algorithms that form this connection are presented and proved.
